@@ -41,24 +41,12 @@ to work on the project full-time.
 If you have any specific questions concerning our project, feel free to [contact us](mailto:dev@openipc.org).
 
 
-## Participating and Contribution
+### build
 
-If you like what we do, and willing to intensify the development, please consider participating.
+- build default: `make BOARD=ssc337de_ultimate`	=> Make all
+- build app: `make BOARD=ssc337de_ultimate`
 
-You can improve existing code and send us patches. You can add new features missing from our code.
 
-You can help us to write a better documentation, proofread and correct our websites.
+### flash
+- build default: `make BOARD=ssc337de_ultimate`	=> Make all
 
-You can just donate some money to cover the cost of development and long-term maintaining of what we believe
-is going to be the most stable, flexible, and open IP Network Camera Framework for users like yourself.
-
-You can make a financial contribution to the project at [Open Collective][contribution].
-
-Thank you.
-
-<p align="center">
-<a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://openipc.org/files/donatetoopencollectivebutton.webp" alt="Open Collective donate button"></a>
-</p>
-
-[chat]: https://openipc.org/our-channels
-[contribution]: https://opencollective.com/openipc/contribute/backer-14335/checkout
