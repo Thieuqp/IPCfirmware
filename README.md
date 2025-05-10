@@ -50,3 +50,11 @@ If you have any specific questions concerning our project, feel free to [contact
 ### flash
 - build default: `make BOARD=ssc337de_ultimate`	=> Make all
 
+
+
+
+
+### SCP
+- https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1.msi/download
+- 
+
